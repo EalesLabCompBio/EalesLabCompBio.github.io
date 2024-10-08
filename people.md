@@ -93,6 +93,7 @@ Project: *Sequence-based deep learning models for prioritisation of disease-asso
 ### Qi Wang - PhD Student
 
 Project: *A deep learning model of tissue-specific alternative splicing in cardiovascular disease genes* - co-supervised with Prof. Theodore Papamarkou.
+
 **Email** - `qi.wang-41@postgrad.manchester.ac.uk`  
 
 
