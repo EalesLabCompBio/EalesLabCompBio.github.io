@@ -84,5 +84,8 @@ Project: *Insights into mechanisms of chronic kidney disease from human tissue m
 
 ------------------------------------------------------------------------
 
+### Steph Brown - PhD Student
 
+Project: *Sequence-based deep learning models for prioritisation of disease-associated non-coding variants in cardiovascular disease* - co-supervised with Prof. Theodore Papamarkou.
 
+------------------------------------------------------------------------
