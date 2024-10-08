@@ -57,7 +57,7 @@ Project: *Multi-omic profiling of the hypertensive kidney* - co-supervised with 
 
 We run in-silico experiments to investigate the biological mechanisms causal to cardiovascular disease. We do multiomics, deep-learning, molecular diagnostics, translational research, single-cell transcriptomics. We are interested in understanding more about the biology behind hypertension, coronary artery disease, kidney histopathology and alternative splicing.
 
-**Email** - `james.eales[at sign]manchester.ac.uk`  
+**Email** - `james.eales@manchester.ac.uk`  
 **Affiliation** - Division of Cardiovascular Sciences, School of Medical Sciences, Faculty of Biology, Medicine and Health.  
 **Location** - AV Hill Building, Manchester  
 **Twitter** - [@EalesJames](https://twitter.com/EalesJames)  
